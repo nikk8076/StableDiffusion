@@ -1,5 +1,5 @@
 # pytorch-stable-diffusion
-PyTorch implementation of Stable Diffusion from scratch
+A PyTorch implementation of the Stable Diffusion v1.5 inference pipeline — CLIP text encoder, VAE, cross-attention U-Net denoiser, and DDPM sampler with classifier-free guidance, supporting text-to-image and image-to-image generation.
 
 ## Download weights and tokenizer files:
 
